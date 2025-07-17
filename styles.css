@@ -7,7 +7,7 @@
   --primary-accent: royalblue;
   --bg-color: #ffffff;
   --text-color: #000000;
-  --link-color: #666666;
+  --link-color: #666666;    
   --link-hover: #000000;
   --container-bg: #f9f9f9;
   --video-bg: #000000;
@@ -26,8 +26,8 @@
 
 /* Dark Theme */
 .dark-theme {
-  --bg-color: #121212;
-  --text-color: #f1f1f1;
+  --bg-color: #FFFFFF;
+  --text-color: #FFFFFF;
   --link-color: #bbbbbb;
   --link-hover: #ffffff;
   --container-bg: #1a1a1a;
@@ -236,7 +236,7 @@ ul.channel-list li:hover:not(.active) {
 }
 
 .status-online {
-  background-color: var(--primary-accent);
+  background-color: #008000;
 }
 
 .status-offline {
