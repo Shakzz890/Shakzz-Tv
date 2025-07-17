@@ -2,23 +2,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap");
 
-@media (max-width: 768px) {
-  .sidebar {
-    width: 100%;
-    position: relative;
-  }
-
-  .main-content {
-    width: 100%;
-    margin-left: 0;
-  }
-
-  .channel-list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-}
 /* Light Theme */
 :root {
   --primary-accent: royalblue;
