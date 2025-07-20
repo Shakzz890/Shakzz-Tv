@@ -590,18 +590,6 @@ const channels = [
     },
   },
   {
-    name: "IBC 13",
-    category: "Cignal",
-    type: "mpd",
-    url: "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd",
-    drm: {
-      clearkey: {
-        keyId: "04e292bc99bd4ccba89e778651914254",
-        key: "ff0a62bdf8920ce453fe680330b563a5",
-      },
-    },
-  },
-  {
     name: "KBS WORLD",
     category: "Cignal",
     type: "mpd",
